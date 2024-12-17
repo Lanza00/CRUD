@@ -17,4 +17,4 @@
 #### Deployment Steps
 
 1. clone the github repo and paste into the cmd on desired folder
-![git@github.com:Lanza00/crud.git]
+[github clone link] (git@github.com:Lanza00/crud.git)
