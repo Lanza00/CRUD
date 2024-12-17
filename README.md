@@ -16,7 +16,7 @@
 ---
 #### Deployment Steps
 
-1. clone the github repo and paste into the cmd on desired folder [github clone link](git@github.com:Lanza00/crud.git)
+1. clone the github repo and paste into the cmd on desired folder [github clone link](https://github.com/Lanza00/crud.git) 
 2. wait for the cloning to finish
 3. open cmd and enter "composer install"
 4. Enter you database connection in the .env file
